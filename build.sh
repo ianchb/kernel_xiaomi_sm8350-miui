@@ -204,7 +204,7 @@ main(){
         echo "    cleanbuild      Clean the source tree and build files then perform a all build."
         echo
         echo "    flashable       Only generate the flashable zip file. Don't use it before you have built once."
-#         echo "    savedefconfig   Save the defconfig file to source tree."
+        echo "    savedefconfig   Save the defconfig file to source tree."
         echo "    kernelonly      Only build kernel image"
         echo "    defconfig       Only build kernel defconfig"
         echo "    upgkidefconf    Update GKI defconfig for lahaina"
