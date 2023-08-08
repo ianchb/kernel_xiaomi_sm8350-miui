@@ -3,7 +3,7 @@ name: Build and Upload Artifacts
 on:
   push:
     branches:
-      - miui-t
+      - master
 
 jobs:
   build:
